@@ -73,11 +73,6 @@ If you want to contribute see ["Joining the team"](https://github.com/icsharpcod
 
 * [Monda Hiroki](https://github.com/fullstack720.dev) (Project Founder)
 
-###Non-Developers
-
-* Christoph Wille (PM)
-* Bernhard Spuida (Kalfaktor)
-
 ###Developer (Non-Exhaustive List)
 
 * Monda Hiroki
